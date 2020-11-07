@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin:0; /*Add this*/
+    background-color: black !important; 
+}
+
+.wrapper {
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#signUp {
+    margin-top: -100px;
+}
